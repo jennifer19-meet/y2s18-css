@@ -34,11 +34,19 @@ a{
 .Sidebar{
 	position: absolute;
 	top: 80px;
-	left:0px;
+	left:800px;
 }
 .content{
 	position: absolute;
-	top: 0px;
-	left:500px;
+	top: 80px;
+	left:0px;
 
+}
+#besstt{
+	
+	color:green;
+	
+}
+div.content{
+	font-size: 100px;
 }
